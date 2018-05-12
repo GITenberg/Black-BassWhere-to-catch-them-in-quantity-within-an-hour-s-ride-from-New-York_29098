@@ -1,0 +1,30 @@
+_repo: Black-BassWhere-to-catch-them-in-quantity-within-an-hour-s-ride-from-New-York_29098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradford, Charles Barker
+    birthdate: 1862
+    deathdate: 1917
+    gutenberg_agent_id: '33695'
+    url: http://www.gutenberg.org/2009/agents/33695
+description: ''
+gutenberg_issued: '2009-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29098'
+  lccn: '12021572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black bass'
+- !lcc 'SH'
+- !lcsh 'Fishing -- New York (State)'
+title: 'Black Bass
+
+  Where to catch them in quantity within an hour''s ride from New York'
+url: http://www.gutenberg.org/ebooks/29098
