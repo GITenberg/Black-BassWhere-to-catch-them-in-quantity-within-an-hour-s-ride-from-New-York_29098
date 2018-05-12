@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33695'
     url: http://www.gutenberg.org/2009/agents/33695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29098#Black-BassWhere-to-catch-them-in-quantity-within-an-hour-s-ride-from-New-York
 gutenberg_issued: '2009-06-11'
 gutenberg_type: Text
 identifiers:
